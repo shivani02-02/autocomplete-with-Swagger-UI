@@ -43,7 +43,7 @@ RUNNING THE FLASK APPLICATION:
 4. Installing and running Flask App : 
     Go to project directory and run the below commands to run the application on local host (Windows):
     
-    set FLASK_APP=autocomplete.py
+    set FLASK_APP=swaggerautocomplete.py
     
     flask run
     
